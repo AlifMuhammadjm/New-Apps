@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to FreelanceGuard",
+  "contractTitle": "Generate Contract",
+  "@contractTitle": {
+    "description": "Title for contract page"
+  },
+  "appName": "FreelanceGuard"
+} 
