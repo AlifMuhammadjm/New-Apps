@@ -1,0 +1,24 @@
+name: freelancer_os
+description: A freelancer operating system application
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  supabase_flutter: ^2.0.0
+  flutter_stripe: ^5.0.0
+  http: ^0.13.5
+  paypal_payment: ^1.0.8  # Untuk Flutter Web/Mobile
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true 
